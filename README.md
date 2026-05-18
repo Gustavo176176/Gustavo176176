@@ -30,5 +30,5 @@ backend FastAPI, app Flutter com NFC ISO 15693 e modo offline, e
 backoffice web.
 
 #### Autonomous Guided Vehicle (AGV) — ISEP
-Projeto académico de robótica: veículo guiado autonomamente.
+Projeto académico de robótica: veículo guiado autonomamente. 
 
