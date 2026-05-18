@@ -1,6 +1,6 @@
 # Gustavo Marques 👋
 
-Desenvolvo soluções end-to-end, focadas em automação e sistemas embebidos.
+Desenvolvo soluções end-to-end, focadas em automação e sistemas embebidos. Otimização de processos e eliminação de tarefas repetitivas
 
 ## ⚡ Trabalho
 
