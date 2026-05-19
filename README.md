@@ -20,7 +20,7 @@ no [ISEP](https://www.isep.ipp.pt/).
 
 ## 🛠 Stack
 
-Python · FastAPI · MariaDB · MongoDB · Docker · n8n · Power Automate · OSM 
+Python · FastAPI · MariaDB · MongoDB · Docker · n8n · Power Automate · OSM · MySQL
 
 ## 📌 Projetos em destaque
 
