@@ -5,9 +5,9 @@ Desenvolvo soluções end-to-end, focadas em automação e sistemas embebidos. O
 ## ⚡ Trabalho
 
 Sou Systems Engineer na [Porto Digital](https://www.portodigital.pt/), 
-onde construo soluções end-to-end para a cidade do Porto. Antes disso 
-estagiei na mesma equipa e desenvolvi o sistema de controlo de acessos 
-remoto para armários de telecomunicações. Atualmente, estou a melhorar essa solução. 
+onde construo soluções end-to-end para a cidade do Porto. Em 2025
+estagiei na equipa de Infraestruturas e Operações e desenvolvi o sistema de controlo de acessos 
+remoto para armários de telecomunicações. Atualmente, estou a melhorar essa solução para a tese de mestrado. 
 Paralelamente, estou no  Mestrado em Engenharia Eletrotécnica e de Computadores- Automação e Sistemas 
 no [ISEP](https://www.isep.ipp.pt/).
 
