@@ -29,6 +29,17 @@ Sistema completo de controlo de acessos a 300 armários de telecomunicações:
 backend FastAPI, app Flutter com NFC ISO 15693 e modo offline, e 
 backoffice web.
 
+
+#### [Sistema de Gestão de Condomínios]([https://github.com/Gustavo176176/Controlo-e-Seguranca-Outdoor](https://github.com/ModsiIsep2026/Sistema_Gestao_Condominios
+)) — MEEC ISEP, 2026
+Sistema completo de gestão de condóminio: 
+Python 3.13 + FastAPI + Uvicorn
+SQLAlchemy (ORM) + MariaDB
+JWT (autenticação) + Google OAuth (authlib)
+openpyxl + reportlab (relatórios)
+aiosmtplib (envio de emails)
+
+
 #### Autonomous Guided Vehicle (AGV) — ISEP
 Projeto académico de robótica: veículo guiado autonomamente. 
 
