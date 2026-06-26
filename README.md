@@ -31,11 +31,11 @@ backoffice web.
 
 
 #### [Sistema de Gestão de Condomínios](https://github.com/ModsiIsep2026/Sistema_Gestao_Condominios) — MEEC ISEP, 2026
-Sistema completo de gestão de condóminio: 
-Python 3.13 + FastAPI + Uvicorn
-SQLAlchemy (ORM) + MariaDB
-JWT (autenticação) + Google OAuth (authlib)
-openpyxl + reportlab (relatórios)
+Sistema completo de gestão de condomínio:  
+Python 3.13 + FastAPI + Uvicorn  
+SQLAlchemy (ORM) + MariaDB  
+JWT (autenticação) + Google OAuth (authlib)  
+openpyxl + reportlab (relatórios)  
 aiosmtplib (envio de emails)
 
 
